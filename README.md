@@ -2,9 +2,6 @@
 
 # 👋 Hi there, I'm Gong SeungHwan!
 
-💡 I'm a developer passionate about **Android, Kotlin, Python, Firebase**  
-🚀 Currently working on mobile app projects  
-📚 Always learning and exploring new technologies  
 📫 E-mail: rhd3437@naver.com  
 
 ---
