@@ -1,22 +1,21 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Gong SeungHwan!
 
 💡 I'm a developer passionate about **Android, Kotlin, Python, Firebase**  
 🚀 Currently working on mobile app projects  
 📚 Always learning and exploring new technologies  
-📫 How to reach me: your_email@example.com  
+📫 E-mail: rhd3437@naver.com  
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-</p>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ---
 
@@ -29,12 +28,12 @@
 ---
 
 ## 📂 Featured Projects
-- 📖 [Reading Log App](https://github.com/YourGitHubID/reading-log)  
-- 🎲 [Random Book Recommendation](https://github.com/YourGitHubID/book-randomizer)
-
+- 📖 [Reading Log App](https://github.com/LFC19/BOOKT)  
+- 🍴 [Food app](https://github.com/LFC19/FooPa_main)
+- 🚚 [Food delivery app](https://github.com/LFC19/Foopa_delivery)
 ---
 
-⭐️ From [YourGitHubID](https://github.com/LFC19)
+⭐️ From [LFC19](https://github.com/LFC19)
 
 
 <!--
