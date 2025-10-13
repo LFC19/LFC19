@@ -18,11 +18,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LFC19&show_icons=true&theme=dark)  
+## 📊 Top Langs
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFC19&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LFC19&theme=dark)
 
 ---
 
