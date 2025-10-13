@@ -35,7 +35,7 @@
 
 <div align="center">
   
-## 📂 Featured Projects
+## 📂 Projects
  📖 [Reading Log App](https://github.com/LFC19/BOOKT)
  <br />
  🍴 [Food app](https://github.com/LFC19/FooPa_main)
