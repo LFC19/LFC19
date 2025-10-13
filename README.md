@@ -3,6 +3,7 @@
 # 👋 Hi there, I'm Gong SeungHwan!
 
 📫 E-mail: rhd3437@naver.com  
+📑 portfolio: https://orchid-ocean-e60.notion.site/1bfb29a4d8dc80708862d17e6eb6dbe2?source=copy_link
 
 ---
 
