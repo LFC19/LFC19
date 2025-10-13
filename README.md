@@ -25,18 +25,25 @@
 </div>
 
 <div align="center">
+  
 ## 📊 Top Langs
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFC19&layout=compact&theme=dark)  
+
 </div>
 
 <div align="center">
+  
 ## 📂 Featured Projects
 - 📖 [Reading Log App](https://github.com/LFC19/BOOKT)  
 - 🍴 [Food app](https://github.com/LFC19/FooPa_main)
 - 🚚 [Food delivery app](https://github.com/LFC19/Foopa_delivery)
+- 
 </div>
 
+
 <div align="center">
+  
 ⭐️ From [LFC19](https://github.com/LFC19)
+
 </div>
