@@ -35,10 +35,10 @@
 <div align="center">
   
 ## 📂 Featured Projects
-- 📖 [Reading Log App](https://github.com/LFC19/BOOKT)  
-- 🍴 [Food app](https://github.com/LFC19/FooPa_main)
-- 🚚 [Food delivery app](https://github.com/LFC19/Foopa_delivery)
-- 
+ 📖 [Reading Log App](https://github.com/LFC19/BOOKT)  
+ 🍴 [Food app](https://github.com/LFC19/FooPa_main)
+ 🚚 [Food delivery app](https://github.com/LFC19/Foopa_delivery)
+ 
 </div>
 
 
