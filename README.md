@@ -1,6 +1,6 @@
-## Hi there 👋
+## 안녕하세요! 
 
-# 👋 Hi there, I'm Gong SeungHwan!
+# 👋 안녕하세요? 저는 사용자 중심의 어플리케이션을 개발하고자하는 공승환입니다.
 
 📫 E-mail: rhd3437@naver.com  
 📑 portfolio: https://orchid-ocean-e60.notion.site/1bfb29a4d8dc80708862d17e6eb6dbe2?source=copy_link
