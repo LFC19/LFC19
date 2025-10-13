@@ -8,8 +8,8 @@
 📑 portfolio: https://orchid-ocean-e60.notion.site/1bfb29a4d8dc80708862d17e6eb6dbe2?source=copy_link
   
 </div>
-
 ---
+<div align="center">
 
 ## 🚀 Tech Stack
 
@@ -22,35 +22,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+</div>
 ---
-
+<div align="center">
 ## 📊 Top Langs
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFC19&layout=compact&theme=dark)  
-
+</div>
 ---
-
+<div align="center">
 ## 📂 Featured Projects
 - 📖 [Reading Log App](https://github.com/LFC19/BOOKT)  
 - 🍴 [Food app](https://github.com/LFC19/FooPa_main)
 - 🚚 [Food delivery app](https://github.com/LFC19/Foopa_delivery)
+</div>
 ---
-
+<div align="center">
 ⭐️ From [LFC19](https://github.com/LFC19)
-
-
-<!--
-**LFC19/LFC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
