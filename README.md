@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
+
 <div align="center">
   
 ## 안녕하세요! 
@@ -47,3 +49,5 @@
 ⭐️ From [LFC19](https://github.com/LFC19)
 
 </div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=100&section=footer)
+
