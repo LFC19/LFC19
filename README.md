@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요!&fontSize=90)
 
 <div align="center">
-  
-## 안녕하세요! 
 
 # 👋 저는 사용자 중심의 어플리케이션을 개발하고자하는 공승환입니다.
 
