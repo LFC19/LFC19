@@ -26,12 +26,13 @@
 </div>
 
 <div align="center">
-  
+
 ## 📊 Top Langs
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFC19&layout=compact&theme=dark)  
+
+![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LFC19&layout=compact&theme=radical&custom_title=Most%20Used%20Languages)
 
 </div>
+
 
 <div align="center">
   
